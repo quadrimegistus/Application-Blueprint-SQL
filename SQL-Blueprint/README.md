@@ -1,6 +1,6 @@
 # SQL Project Starter with Auth
 
-A simple starter project with Express, Handlebars, Sequelize, Passport and Local Auth.
+A skeleton pack for starting a project with Express, Handlebars, Sequelize, Passport, Local Auth and several other items.
 
 ## Setup:
 
