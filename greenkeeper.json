@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "SQL-Blueprint/package.json"
+      ]
+    }
+  }
+}
